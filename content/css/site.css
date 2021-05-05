@@ -1,0 +1,8 @@
+body{
+    background-image: url(../img/Synthwave_Background_Static.jpg);
+    background-repeat: round;
+}
+.results{
+    background-color: whitesmoke;
+    padding: 2rem;
+}
